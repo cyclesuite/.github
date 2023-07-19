@@ -26,5 +26,3 @@ Cycle is a plugin that allows you to create components, make objects inherit pro
 		<img width="24" src="https://raw.githubusercontent.com/cyclesuite/.github/main/assets/Socials/Light/github.svg#gh-light-mode-only">
 	</a>
 </p>
-
-<div align="center">made with :heart:</div>
